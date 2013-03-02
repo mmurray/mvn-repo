@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Sprockets</name>
+      <prefix>sprockets-java</prefix>
+      <artifactId>sprockets-java</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
